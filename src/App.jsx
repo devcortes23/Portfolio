@@ -7,11 +7,11 @@ import Projects from "./components/Projects/Projects.jsx";
 import Resume from "./components/Resume/Resume.jsx";
 import Contact from "./components/Contact/Contact.jsx";
 import Separator from "./components/Separator/Separator.jsx";
+import Footer from "./components/Footer/Footer.jsx";
 
 const App = () => {
   return (
-<div className="bg-[#0b1220] text-[#e5e7eb] min-h-screen w-full overflow-x-hidden font-outfit">
-
+    <div className="bg-[#0b1220] text-[#e5e7eb] min-h-screen w-full overflow-x-hidden font-outfit">
       <Navbar />
 
       {/* Main content wrapper */}
@@ -32,6 +32,9 @@ const App = () => {
         <Separator />
 
         <Contact />
+     
+
+        <Footer />
       </div>
     </div>
   );

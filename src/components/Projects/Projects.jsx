@@ -9,7 +9,7 @@ const projects = [
       "MERN stack e-commerce project featuring a fully functional shopping cart, user authentication with JWT, product listing, search & filter, and responsive design using Tailwind CSS. Secure login, dynamic cart updates, and smooth UI transitions make this project production-ready.",
     icon: <FaShoppingCart />,
     demo: "#",
-    code: "https://github.com/yourusername/ShopKart",
+    code: "https://github.com/aniketjha437/ShopKart-An-Ecommerce-Website",
   },
   {
     name: "Food Delivery App",
@@ -24,8 +24,8 @@ const projects = [
     description:
       "Personal portfolio showcasing projects, skills, and achievements. Includes interactive project cards, smooth animations, responsive layout, and integrated contact form. Built to present work professionally with modern UI/UX design.",
     icon: <FaUserCircle />,
-    demo: "#",
-    code: "https://github.com/yourusername/Portfolio",
+    demo: "https://aniketjha.vercel.app/",
+    code: "https://github.com/aniketjha437/Portfolio",
   },
 ];
 
