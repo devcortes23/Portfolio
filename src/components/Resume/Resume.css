@@ -1,0 +1,99 @@
+.resume-section {
+    padding: 80px 20px;
+    /* background-color: #121212; */
+    color: #fff;
+    font-family: 'Outfit', sans-serif;
+    min-height: 100vh;
+}
+
+.resume-section h2 {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 50px;
+    background: linear-gradient(90deg, #00d4ff, #ff00d4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.resume-card {
+    background-color: #1e1e1e;
+    padding: 30px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.6);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.resume-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 35px rgba(0, 212, 255, 0.6);
+}
+
+.resume-card h3 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    color: #00d4ff;
+}
+
+.resume-card ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.resume-card li {
+    margin-bottom: 12px;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.resume-card p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #ccc;
+}
+
+.resume-download {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.resume-download button {
+    padding: 15px 35px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    background-color: #00d4ff;
+    color: #121212;
+    transition: all 0.3s ease;
+}
+
+.resume-download button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 212, 255, 0.5);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .resume-section {
+        padding: 60px 10px;
+    }
+
+    .resume-section h2 {
+        font-size: 2.5rem;
+    }
+
+    .resume-card h3 {
+        font-size: 1.5rem;
+    }
+
+    .resume-card li, .resume-card p {
+        font-size: 0.95rem;
+    }
+
+    .resume-download button {
+        padding: 12px 25px;
+        font-size: 1rem;
+    }
+}

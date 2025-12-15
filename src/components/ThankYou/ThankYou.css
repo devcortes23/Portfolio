@@ -1,0 +1,20 @@
+.thankyou-page {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #007bff, #00c6ff);
+    color: white;
+    text-align: center;
+}
+
+.thankyou-page h1 {
+    font-size: 48px;
+    margin-bottom: 15px;
+}
+
+.thankyou-page p {
+    font-size: 18px;
+    opacity: 0.9;
+}
