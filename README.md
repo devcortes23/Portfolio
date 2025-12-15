@@ -71,7 +71,7 @@ PORTFOLIO_FINAL/
 
 ## 🚀 Live Demo
 
-Check out the live portfolio here: [https://aniket-jha-portfolioo.vercel.app/](https://aniket-jha-portfolioo.vercel.app/)
+Check out the live portfolio here: [https://aniketjha.vercel.app/](
 
 ## 🔧 Installation
 
@@ -82,7 +82,7 @@ To run this project locally:
 git clone https://github.com/username/portfolio.git
 
 # Navigate to project folder
-cd portfolio
+cd Portfolio
 
 # Install dependencies
 npm install
